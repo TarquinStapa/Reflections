@@ -1,0 +1,2 @@
+It is actually quite easy to find your last mistake through git.
+All you need to do is be methodical in your appraoch and go through each commit until you find the mistake

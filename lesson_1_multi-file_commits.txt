@@ -1,0 +1,3 @@
+This is because one object, like a button can affect multiple
+files in that repository. So one commit should save across
+all the files

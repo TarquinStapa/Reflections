@@ -1,0 +1,9 @@
+This was quite a frustrating lesson as i didnt realise that I can scoll
+down to view more info.
+great putting all this  info to work.
+firstly downloading and cloning another repository
+second, using git log to view all the commits
+and finally using git diff to view the differences
+
+
+
