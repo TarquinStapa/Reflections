@@ -1,0 +1,19 @@
+The first lesson was very insightful
+first i understood the FC command prompt in Windows Comand prompt.
+Second I had to install git
+Third I had to install a text editor like Sublime
+Finally I had to navigate to Sublime by creating version-control folders 
+in Git Bash and then type out this reflections
+A good start to understanding Git and GitHub
+
+History and Efficiency
+
+Reviewing some old methods of version control was interesting. Manually saving old versions seems quite tedious.
+What I didnt know is that software like dropbox, google docs and wikipedia have version control options available. 
+
+Manual Commits
+
+Having to manually save allows you to understand what you have changed.
+It also helps break down your progress in your mind for what you are working on.
+Auto save would save randomly and wouldnt allow you to see speciffically what you were working on.
+
