@@ -1,1 +1,0 @@
-It is important to initilise a repository otherwise git does not know that it is a repository

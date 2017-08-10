@@ -1,0 +1,43 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Inorder to get a directory, it will be created for me to track changes in my files.
+	It is in ordder to let git know that I want to track changes in this project.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+    We do this in order to add files we want to commit. It will offers us more control.
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+	It is important to initilise a repository otherwise git does not know that it is a repository
+
+	Staging Area for logical Changes:
+
+	The staging area has a few arguments that are useful
+	git diff to compare the working directory to the staging area
+	git dif --staged to complare the staging area to the repository
+	git reset --hard to areas the working directory and staging area
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	It would be useful to create a branch when you are looking to experiment and change a feature.
+	It would also be useful when creating another version of the game like we did in easy mode.
+
+How do the diagrams help you visualize the branch structure?
+
+	It helps by showing the various branches running parallel to the master branch.
+	it also helps by showing which parent the commits are connect to and when and where the branches were established.
+	Finally, it alos helps in seein the detached head state to a commit that isnt neccessarily a brnach yet
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Once two branches are merged together using git merge the one branch merges into the other
+	mine didnt go so well through an error which needs to be corrected
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	The pros are that when there is a conflict the users get notified about them to resolve it
+	the cons are that it takes time to do thisand review the conflicting work
