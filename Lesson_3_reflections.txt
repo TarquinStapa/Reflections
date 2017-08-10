@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+  It would be beneficial to do this to allow me to work and add to the repository from a different Computer.
+  It would also allow for someone else to add to the repository themselves.
+  
