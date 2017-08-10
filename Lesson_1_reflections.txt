@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+	The first lesson was very insightful
+	first I understood the FC command prompt in Windows Comand prompt.
+	Second I had to install git
+	Third I had to install a text editor like Sublime
+	Finally I had to navigate to Sublime by creating version-control folders in Git Bash and then type out this reflections
+	A good start to understanding Git and GitHub
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+	Reviewing some old methods of version control was interesting. Manually saving old versions seems quite tedious.
+	What I didnt know is that software like dropbox, google docs and wikipedia have version control options available. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+	Having to manually save allows you to understand what you have changed.
+	It also helps break down your progress in your mind for what you are working on.
+	Auto save would save randomly and wouldnt allow you to see speciffically what you were working on.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+	This is because one object, like a button can affect multiple
+	files in that repository. So one commit should save across
+	all the files
+
+How can you use the commands git log and git diff to view the history of files?
+
+	It was great putting all this  info to work.
+	firstly downloading and cloning another repository
+	Second, using git log to view all the commits
+	and finally using git diff to view the differences
+
+How might using version control make you more confident to make changes that
+could break something?
+
+	It is actually quite easy to find your last mistake through git.
+	All you need to do is be methodical in your appraoch and go through each commit until you find the mistake.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I wouldlike to use git for:
+		firstly to learn how to program
+		secondly to create a profle
+		and finnaly to be more effiecnt at my work
